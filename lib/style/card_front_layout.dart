@@ -140,8 +140,8 @@ class CardFrontLayout {
                                 fontWeight: FontWeight.w500,
                                 fontFamily: 'MavenPro',
                                 fontSize: 17,
-                                overflow: TextOverflow.ellipsis,
                               ),
+                              overflow: TextOverflow.ellipsis,
                             ),
                           ),
                           SizedBox(
